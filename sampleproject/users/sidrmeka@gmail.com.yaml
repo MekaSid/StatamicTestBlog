@@ -1,0 +1,8 @@
+super: true
+name: 'Sid Meka'
+id: 928f90f8-1b03-4be0-a558-b855827a4722
+password_hash: $2y$10$lRpkRebXnULjPMc97W.Kuez7AKuLNE9Q7Zo2ZHN.Lb/PEJfsA7u9W
+preferences:
+  collections:
+    pages:
+      after_save: continue_editing

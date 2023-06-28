@@ -5,4 +5,4 @@ password_hash: $2y$10$lRpkRebXnULjPMc97W.Kuez7AKuLNE9Q7Zo2ZHN.Lb/PEJfsA7u9W
 preferences:
   collections:
     pages:
-      after_save: continue_editing
+      after_save: create_another
